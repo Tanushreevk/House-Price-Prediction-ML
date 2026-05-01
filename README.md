@@ -148,42 +148,12 @@ A synthetic housing dataset is generated using Python, simulating real-world hou
 
 \---
 
-
-
-\## 📸 Output Screenshots
-
-
-
 \### 🔹 Dataset Preview
 
 
-
-(Add screenshot here)
-
-
-
-\### 🔹 Correlation Heatmap
-
-
-
-(Add heatmap.png here)
-
-
-
-\### 🔹 Pairplot Visualization
-
-
-
-(Add pairplot.png here)
-
-
-
-\### 🔹 Actual vs Predicted Prices
-
-
-
-(Add prediction.png here)
-
+![Heatmap](images/heatmap.png)
+![Pairplot](images/pairplot.png)
+![Prediction](images/prediction.png)
 
 
 \---
